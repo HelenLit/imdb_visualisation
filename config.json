@@ -6,8 +6,8 @@
         10000,
         300
       ],
-      "tensorPath": "https://drive.google.com/uc?export=download&id=1udwyYFbWc-XUEms5KveoChu8ahADunCV",
-      "metadataPath": "https://drive.google.com/uc?export=download&id=1jrobOBjvVGqcO_1OFc0WNU-hhxl5qbN1"
+      "tensorPath": "https://raw.githubusercontent.com/HelenLit/imdb_visualisation/refs/heads/main/meta.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/HelenLit/imdb_visualisation/refs/heads/main/meta.tsv"
     }
   ]
 }
