@@ -6,7 +6,7 @@
         10000,
         300
       ],
-      "tensorPath": "https://raw.githubusercontent.com/HelenLit/imdb_visualisation/refs/heads/main/meta.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/HelenLit/imdb_visualisation/refs/heads/main/vecs.tsv",
       "metadataPath": "https://raw.githubusercontent.com/HelenLit/imdb_visualisation/refs/heads/main/meta.tsv"
     }
   ]
